@@ -1,7 +1,8 @@
 # s3-static-portfolio
-<h3>Creating s3 static website for my portfolio using terraform</h3>
+<h3>Creating s3 static website for my portfolio using AWS S3 & Terraform</h3>
 <h5>Prerequisite</h5>
 1- AWS Account
+<br/>
 2- Terraform Installed 
 <h4>Following are the steps to create Portfolio using AWS S3, S3 Static Website Hosting and Terraform.</h4>
 1- Clone Repo https://github.com/muhammadasif84/s3-static-portfolio.git
